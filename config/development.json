@@ -1,4 +1,4 @@
 {
-    "db":"mongodb://localhost:27017/MernClass"
+    "db":"mongodb+srv://root:root@mernclass.a7m6smu.mongodb.net/?retryWrites=true&w=majority"
 
 }
